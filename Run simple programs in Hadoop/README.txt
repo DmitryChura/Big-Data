@@ -1,1 +1,3 @@
-Для работы с большими данными будем использовать виртуальную машину Oracle VM VirtualBox и Cloudera Quickstart VM
+Для работы с большими данными будем использовать:  
+Oracle VM VirtualBox  
+Cloudera Quickstart VM
