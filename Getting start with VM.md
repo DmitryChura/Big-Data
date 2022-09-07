@@ -1,3 +1,4 @@
+Start Oracle VirtualBox. Import the VM by going to File -> Import Appliance  
 После установки открываем Oracle VM VirtualBox. Необходимо импортировать конфигурации через Файл->Иморт конфигураций:  
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/%D0%A4%D0%B0%D0%B9%D0%BB.png)  
 Выбираем файл cloudera-quickstart-vm-5.4.2-0-virtualbox:  
