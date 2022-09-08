@@ -1,8 +1,8 @@
 Run the WordCount program Instructions  
 Start the Cloudera VM in VirtualBox and open a browser  
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/browser.png)  
-I use "Pirates.txt" file. Enter link https://raw.githubusercontent.com/DmitryChura/Big-Data/main/Run%20simple%20programs%20in%20Hadoop/Pirates.txt in the browser and click "Open menu"->"Save page" and save as "Pirates.txt" in Downloads 
-фото сохранения  
+I use "Pirates.txt" file. Enter link https://raw.githubusercontent.com/DmitryChura/Big-Data/main/Run%20simple%20programs%20in%20Hadoop/Pirates.txt in the browser and click "Open menu"->"Save page" and save as "Pirates.txt" in Downloads  
+![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/save%20page.jpg)  
 Open a terminal shell. Commands we use:  
 - use "cd Downloads" to go to the Downloads directory  
 - run "hadoop fs -copyFromLocal Pirates.txt" to copy the text file to HDFS
@@ -11,4 +11,6 @@ Open a terminal shell. Commands we use:
 - run "hadoop fs -ls outFile" to look inside "outFile"
 - run "hadoop fs -copyToLocal outFile/part-r-00000 results.txt"
 - run "more results.txt" to view the contents of the results  
-фото runs
+![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/runs.jpg)  
+fsdfdsf  
+![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/Results.jpg)
