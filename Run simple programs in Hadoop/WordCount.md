@@ -11,6 +11,9 @@ Open a terminal shell. Commands we use:
 - run "hadoop fs -ls outFile" to look inside "outFile"
 - run "hadoop fs -copyToLocal outFile/part-r-00000 results.txt"
 - run "more results.txt" to view the contents of the results  
+
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/runs.jpg)  
-fsdfdsf  
+
+We can see results, for example, how many times does the word "Elizabeth" occur
+
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/Results.jpg)
