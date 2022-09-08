@@ -1,7 +1,7 @@
-Run the WordCount program Instructions  
-Start the Cloudera VM in VirtualBox and open a browser  
+Run the WordCount program Instructions.  
+Start the Cloudera VM in VirtualBox and open a browser:  
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/browser.png)  
-I use "Pirates.txt" file. Enter link https://raw.githubusercontent.com/DmitryChura/Big-Data/main/Run%20simple%20programs%20in%20Hadoop/Pirates.txt in the browser and click "Open menu"->"Save page" and save as "Pirates.txt" in Downloads  
+I use "Pirates.txt" file. Enter link https://raw.githubusercontent.com/DmitryChura/Big-Data/main/Run%20simple%20programs%20in%20Hadoop/Pirates.txt in the browser and click "Open menu"->"Save page" and save as "Pirates.txt" in Downloads:  
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/save%20page.jpg)  
 Open a terminal shell. Commands we use:  
 - use "cd Downloads" to go to the Downloads directory  
@@ -14,6 +14,6 @@ Open a terminal shell. Commands we use:
 
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/runs.jpg)  
 
-We can see results, for example, how many times does the word "Elizabeth" occur
+We can see results, for example, how many times does the word "ELIZABETH" occur:
 
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/Results.jpg)
