@@ -1,4 +1,7 @@
-This repository contains various tasks about "Big Data"
+This repository contains various tasks about "Big Data" and covers:  
+
+- Apache Hadoop and MapReduce
+- Cloudera
 
 I use:  
 1. Oracle VM VirtualBox. Link: https://www.virtualbox.org/wiki/Downloads  
