@@ -8,4 +8,4 @@ I use:
 2. Cloudera Quickstart VM. Link: https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip  
 
 To get started with VM see the file "Getting start with VM"  
-Assignment 1 contains a program that counts the number of words in a file
+Assignment-1 contains a program that counts the number of words in a file
