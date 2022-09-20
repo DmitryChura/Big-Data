@@ -3,6 +3,7 @@ Start the Cloudera VM in VirtualBox and open a browser:
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/browser.png)  
 I use "Pirates.txt" file. Enter link https://raw.githubusercontent.com/DmitryChura/Big-Data/main/Assignment-1-(WordCount%20program)/Pirates.txt in the browser and click "Open menu"->"Save page" and save as "Pirates.txt" in Downloads:  
 ![Image text](https://github.com/DmitryChura/Big-Data/blob/main/screenshots/save%20page.jpg)  
+
 Open a terminal shell. Commands we use:  
 - use "cd Downloads" to go to the Downloads directory  
 - run "hadoop fs -copyFromLocal Pirates.txt" to copy the text file to HDFS
